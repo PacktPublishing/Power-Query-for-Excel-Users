@@ -1,0 +1,181 @@
+ContactID,FirstName,LastName,Email,Phone,Company,Department,Country,DateAdded
+C001,Ruth,Griffiths,  ruth.griffiths@NORTHBRIDGE.CO.UK,(756) 621-7548,Mills PLC,finance,Germany,2023-12-06 00:00:00
+C002,Mary,Higgins,mary.higgins@northbridge.co.uk,+44 360 145 8144,Richards-Hudson,LEGAL,Ireland,2024-06-16 00:00:00
+C003,Francesca,Harrison,francesca.harrison@outlook.com,0421 779 3041,Apex Services,finance,NETHERLANDS,2024-06-03 00:00:00
+C004,Maurice,White,maurice.white@gmail.com,(682) 408-7653,Jones Group,marketing,Netherlands,2023-01-01 00:00:00
+C005,Sarah,baker,SARAH.BAKER@gmail.com,+44 779 748 6491,"Newton, Anderson and Davies  ",finance,Netherlands,2023-08-29 00:00:00
+C006,Billy,NORtOn,billy.norton@gmail.com,+44 509 349 3417,Davies-Dunn,OPERATIONS,france,2023-04-20 00:00:00
+C007,Jason,Davis,jason.davis@northbridge.co.uk,0044 950 661 8305,"Newton, Anderson and Davies",legal,France,2024-05-01 00:00:00
+C008,owen,kelly,  owen.kelly@business.com,0340 378 6502,Fleming Group,Sales,GERMANY,2024-07-07 00:00:00
+C009,Duncan,Humphries,duncan.humphries@northbridge.co.uk,+449778837232,"Brennan, Taylor and George",legal,UNITED KINGDOM,2023-01-07 00:00:00
+C010,William,Wilson,WILLIAM.WILSON@BUSINESS.COM,0597 129 7371,TechVenture Ltd,finance,france,2024-11-15 00:00:00
+C011,Guy,Kelly,guy.kelly@company.co.uk,0044 238 987 8564,Murphy-Tomlinson,SALES,FRANCE,2023-02-21 00:00:00
+C012,Louis,Morris,louis.morris@northbridge.co.uk,0867 652 1853,Reed-Roberts,Operations,UNITED KINGDOM,2023-08-18 00:00:00
+C013,NATASHA,Hughes,NATASHA.HUGHES@northbridge.co.uk,0677 323 8619,"Leach, Clarke and Robinson",OPERATIONS,UK,2024-01-13 00:00:00
+C014,Philip,Cooper,philip.cooper@northbridge.co.uk   ,+44 706 807 4978,"Jones, Sutton and Williams",marketing,united kingdom,2024-12-14
+C015,Vincent,Read,vincent.read@gmail.com,+44 969 530 9031,"Lloyd, Ford and Douglas",finance,united kingdom,2024-03-19 00:00:00
+C016,Antony,BuckLey,ANTONY.BUCKLEY@gmail.com,0576 546 5397,Davies-Dunn,LEGAL,france,2023.09.09
+C017,Carl,Patel,carl.patel@business.com,(837) 516-9004,Blue Wave Industries,SALES,ireland,2023-09-04 00:00:00
+C018,Jack,Griffiths,JACK.GRIFFITHS@business.com,0584 666 9698,Ahmed and Sons,Legal,germany,2024-03-11 00:00:00
+C019,Kirsty,May,KIRSTY.MAY@NORTHBRIDGE.CO.UK,0321 856 8933,"Moran, Marshall and Dawson",marketing,ireland,2024.08.26
+C020,Katy,Jones,katy.jones@business.com,+443998143068,"Moran, Marshall and Dawson",SALES,NETHERLANDS,2023.04.16
+C021,Tracey,Turner,TRACEY.TURNER@gmail.com,0044 175 690 1878,Davies-Dunn,Operations,france,2023-06-02 00:00:00
+C022,Michael,Fox,michael.fox@business.com,0980 702 8025,Jones Group,OPERATIONS,germany,2024.08.05
+C023,Ryan,Taylor,RYAN.TAYLOR@COMPANY.CO.UK,+441762601043,Horizon Consulting,MARKETING,netherlands,2024-04-06 00:00:00
+C024,Wayne,wood,wayne.wood@gmail.com,0044 217 657 4683,"Leach, Clarke and Robinson",MARKETING,France,2023-09-30 00:00:00
+C025,KATY,Williams,katy.williams@company.co.uk,+443786129847,TechVenture Ltd   ,finance,france,2024-03-24 00:00:00
+C026,Declan,Roberts,declan.roberts@business.com,+441418813870,Blue Wave Industries,FINANCE,NETHERLANDS,2024-06-15 00:00:00
+C027,Justin,White,justin.white@outlook.com,0437 521 9117,Mills PLC,Sales,IRELAND,2024-11-09 00:00:00
+C028,Naomi,Watkins,naomi.watkins@northbridge.co.uk,0044 573 523 1888,Jones Group,Sales,NETHERLANDS,2024-06-14 00:00:00
+C029,Allan,Taylor,allan.taylor@gmail.com,0044 129 745 4920,Phoenix Digital,Operations,UK,2023-11-15 00:00:00
+C030,mary,Booth,mary.booth@company.co.uk,+448223797807,Apex Services,FINANCE,NETHERLANDS,2024-04-28 00:00:00
+C031,Kevin,Jackson,kevin.jackson@outlook.com,0940 102 5634,Hussain and Sons,legal,germany,2024-08-24 00:00:00
+C032,keViN,Hunt,kevin.hunt@outlook.com,0044 814 344 7274,"  Collins, Turner and McDonald",Finance,IRELAND,2024-02-25 00:00:00
+C033,Trevor,Howarth,trevor.howarth@gmail.com,0580 900 5342,Francis-Robson,MARKETING,UK,2024-09-30 00:00:00
+C034,Guy,HUDSON,guy.hudson@gmail.com,0044 170 340 5708, TechVenture Ltd,SALES,NETHERLANDS,2023-04-03
+C035,VaNEssa,Berry,vanessa.berry@outlook.com,0044 798 911 3950,Stevenson PLC  ,OPERATIONS,netherlands,2023-06-29 00:00:00
+C036,lynNe,Turner,lynne.turner@northbridge.co.uk,+449654094263,"Brennan, Taylor and George",finance,france,2024-05-09 00:00:00
+C037,Duncan,Charlton,duncan.charlton@northbridge.co.uk,0044 721 921 6772,Apex Services,finance,ireland,2024/10/13
+C038,John,King,john.king@company.co.uk,+44 473 849 3153,"Robson, Patel and Ball",Sales,NETHERLANDS,2023-10-30 00:00:00
+C039,Andrea,bryan,andrea.bryan@northbridge.co.uk,+44 864 991 6549,Davies-Brookes,operations,GERMANY,2024/04/24
+C040,Tony,Howe,tony.howe@outlook.com,0649 226 8451,   Hussain and Sons,sales,Germany,2024-11-19 00:00:00
+C041,Brett,Vaughan,   brett.vaughan@outlook.com,0044 764 518 2911,Fleming Group,operations,germany,2023-02-16 00:00:00
+C042,naThAn,Tucker,NATHAN.TUCKER@business.com,+448608443531,Higgins Ltd,OPERATIONS,NETHERLANDS,2024.11.01
+C043,scott,Thomas,scott.thomas@outlook.com,+44 778 317 1349,"Scott, Patel and Campbell",Operations,United Kingdom,2023-12-08 00:00:00
+C044,Jill,Smith,jill.smith@northbridge.co.uk,+44 653 356 3858,  Mills PLC,marketing,IRELAND,2024-11-07 00:00:00
+C045,frank,Taylor,frank.taylor@company.co.uk,(559) 896-6931,Fleming Group,Sales,France,2024-08-30 00:00:00
+C046,Vincent,Walsh,VINCENT.WALSH@business.com,+448022109032,"Davies, Carr and Smith",operations,france,2023-03-17 00:00:00
+C047,Stewart,Perry,stewart.perry@northbridge.co.uk,(540) 201-2874,Davies-Brookes,Legal,NETHERLANDS,2023-08-09 00:00:00
+C048,Brian,MORGAN,brian.morgan@company.co.uk,+44 256 803 8770,Apex Services,finance,germany,2023-04-04 00:00:00
+C049,Connor,Shaw,connor.shaw@northbridge.co.uk,+44 462 994 7929,Richards-Hudson,Sales,FRANCE,2023-10-22 00:00:00
+C050,Tracy,Ward,tracy.ward@business.com,+448803854705,TechVenture Ltd,finance,united kingdom,2024/07/28
+C051,Conor,THOMAS,conor.thomas@outlook.com,0044 459 106 3972,Stevenson PLC,finance,GERMANY,2024-08-02 00:00:00
+C052,BRIAN,Wells,brian.wells@business.com,0044 186 153 3549,"Collins, Turner and McDonald",Legal,netherlands,2024/09/24
+C053,Dorothy,MILES,  DOROTHY.MILES@OUTLOOK.COM,(794) 794-8972,   Phoenix Digital,Sales,GERMANY,2024-11-14 00:00:00
+C054,Amber,PEARCE,amber.pearce@business.com  ,+44 672 953 6802,"Leach, Clarke and Robinson",marketing,NETHERLANDS,2024-02-11 00:00:00
+C055,Lynda,wAterS,   LYNDA.WATERS@gmail.com,0432 275 8538,"Newton, Anderson and Davies",operations,UNITED KINGDOM,2023-04-01 00:00:00
+C056,Glen,Lewis,glen.lewis@northbridge.co.uk,+44 302 277 3504,Davey LLC,marketing,germany,2023-07-01 00:00:00
+C057,seAn,Jennings,SEAN.JENNINGS@NORTHBRIDGE.CO.UK,0044 984 742 6179,Horizon Consulting,Legal,germany,2024-03-26 00:00:00
+C058,Harriet,Allen,harriet.allen@gmail.com,+446946671672,Summit Enterprises,OPERATIONS,france,2024-08-08
+C059,Gerald,Jarvis,gerald.jarvis@outlook.com,+443538248172,"Newton, Anderson and Davies",marketing,United Kingdom,2024-06-20 00:00:00
+C060,Gillian,King,gillian.king@northbridge.co.uk,0437 196 7333,   Clark-Martin,FINANCE,united kingdom,2023-09-16 00:00:00
+C061,Katie,Bartlett,katie.bartlett@gmail.com,0709 825 2388,"Brennan, Taylor and George",operations,Ireland,2024-07-26 00:00:00
+C062,Kayleigh,Smith,kayleigh.smith@northbridge.co.uk,0470 118 6940,Apex Services,OPERATIONS,Netherlands,2023-07-04 00:00:00
+C063,Jonathan,khan,jonathan.khan@company.co.uk,(138) 777-6517,Stevenson PLC,Legal,NETHERLANDS,2023-05-15 00:00:00
+C064,Jane,Butcher,jane.butcher@outlook.com,0044 725 391 8355,Frost Inc,Marketing,france,2024/06/30
+C065,Beverley,Palmer,beverley.palmer@COMPANY.CO.UK,(995) 480-2680,"Scott, Patel and Campbell",SALES,France,2023-05-08 00:00:00
+C066,Janice,Roberts,janice.roberts@outlook.com,+44 482 341 7326,Crown Business  ,OPERATIONS,netherlands,2024-01-19 00:00:00
+C067,tom,King,tom.king@gmail.com,+44 730 105 2298,Phoenix Digital,Operations,FRANCE,2023.09.20
+C068,Lisa,Wright,lisa.wright@outlook.com,+445681642816,"Evans, Bell and Clark",operations,NETHERLANDS,2024-09-03 00:00:00
+C069,JESSICA,Mills,jessica.mills@outlook.com,(780) 784-2402,Price PLC,Operations,IRELAND,2024-01-05 00:00:00
+C070,Jonathan,Jones,jonathan.jones@gmail.com,(850) 772-2698,"Newton, Anderson and Davies",finance,IRELAND,2023-12-07 00:00:00
+C071,louis,Ryan,LOUIS.RYAN@outlook.com,+44 833 894 8498,Hussain and Sons,marketing,UNITED KINGDOM,2023-10-28 00:00:00
+C072,Charlie,Hall,charlie.hall@northbridge.co.uk,+443792277029,Taylor-Walker,Sales,germany,2024-02-14 00:00:00
+C073,Raymond,Whitehead,raymond.whitehead@business.com,0942 284 9937,"Jones, Sutton and Williams",operations,NETHERLANDS,2023-11-25 00:00:00
+C074,Jenna,Marshall,jenna.marshall@gmail.com,+44 754 910 1939,TechVenture Ltd   ,OPERATIONS,Germany,2024.11.18
+C075,Luke,Ward,luke.ward@business.com,(492) 680-1530,Davies-Brookes,FINANCE,Germany,2023-06-07 00:00:00
+C076,Wendy,Webb,wendy.webb@gmail.com,(611) 630-7340,"Evans, Bell and Clark",SALES,Ireland,2023.05.01
+C077,Zoe,Arnold,zoe.arnold@gmail.com,0830 555 2438,"Davies, Carr and Smith",operations,ireland,2024/11/14
+C078,Jenna,Phillips, jenna.phillips@company.co.uk,0044 224 305 3275,Davies-Brookes,legal,IRELAND,2024-05-20 00:00:00
+C079,Shirley,Morrison,shirley.morrison@company.co.uk,+44 175 228 6194,"Newton, Anderson and Davies",OPERATIONS,netherlands,2024-04-05 00:00:00
+C080,Owen,Roberts,owen.roberts@outlook.com,0044 630 256 5982,Carter Ltd,sales,united kingdom,2023/06/15
+C081,Georgia,Wells,georgia.wells@business.com,(195) 614-3762,TechVenture Ltd   ,LEGAL,netherlands,2024-08-17 00:00:00
+C082,Leah,Ellis,LEAH.ELLIS@gmail.com,+447327541496, Fleming Group,LEGAL,FRANCE,2024-10-04 00:00:00
+C083,Cheryl,Jackson,CHERYL.JACKSON@OUTLOOK.COM,0247 420 6231,Crown Business  ,finance,NETHERLANDS,2024-02-13 00:00:00
+C084,Rita,Price,rita.price@northbridge.co.uk,0044 691 838 6123,TechVenture Ltd  ,Marketing,Germany,2023-06-13 00:00:00
+C085,HOLLIE,Gallagher,hollie.gallagher@gmail.com,0388 606 8710,"Turner, Henry and Bell",Sales,UK,2024-07-03
+C086,Lawrence,Robinson,lawrence.robinson@northbridge.co.uk,+446663952204," Lamb, Wilson and Hall",MARKETING,germany,2024-05-31 00:00:00
+C087,malcolm,Robertson,malcolm.robertson@outlook.com,(716) 621-7576,Crown Business,marketing,Ireland,2023-02-11 00:00:00
+C088,Marion,Kirby,marion.kirby@company.co.uk,(266) 502-5902,Hussain and Sons,LEGAL,GERMANY,2023-12-11 00:00:00
+C089,Gary,Matthews,gary.matthews@outlook.com,(415) 915-1436,"Scott, Patel and Campbell",operations,NETHERLANDS,2024-04-30
+C090,Leon,CUNNINGHAM,leon.cunningham@northbridge.co.uk,+44 251 941 4968,Frost Inc,LEGAL,france,2024-08-09 00:00:00
+C091,Zoe,Palmer,zoe.palmer@gmail.com,0044 822 241 9498,"Moran, Marshall and Dawson",operations,united kingdom,2024-07-28 00:00:00
+C092,Darren,John,darren.john@business.com,0595 296 5038,"Davies, Carr and Smith",finance,NETHERLANDS,2024-07-25 00:00:00
+C093,Kyle,Fisher,kyle.fisher@outlook.com,0914 838 5480,"Jones, Sutton and Williams",Finance,NETHERLANDS,2023-05-05
+C094,Ryan,Barnes,ryan.barnes@gmail.com   ,+445527715201,Reed-Roberts,sales,germany,2023-08-08 00:00:00
+C095,Diane,clark,diane.clark@company.co.uk,+442025236411,Hussain and Sons,Marketing,united kingdom,2023-04-13 00:00:00
+C096,Roger,james,roger.james@company.co.uk  ,(767) 687-4804,"Moran, Marshall and Dawson",SALES,United Kingdom,2023-02-08
+C097,Abdul,Knight,abdul.knight@company.co.uk,(443) 391-8444,Owen-Quinn,LEGAL,UNITED KINGDOM,2024-06-20 00:00:00
+C098,Tony,paYnE,TONY.PAYNE@gmail.com,0114 854 6523,Carter Ltd,FINANCE,IRELAND,2024-08-04 00:00:00
+C099,Simon,MILLER,simon.miller@outlook.com,0840 686 1187,Smith Inc,finance,NETHERLANDS,2024-10-31 00:00:00
+C100,Amanda,Thomson,amanda.thomson@gmail.com,0044 729 326 4590,Francis-Robson,Finance,Germany,2024-05-04 00:00:00
+C101,Shaun,sheppard,shaun.sheppard@gmail.com  ,0638 557 9653,"Collins, Turner and McDonald ",LEGAL,United Kingdom,2023-03-21 00:00:00
+C102,Craig,McLean,craig.mclean@business.com,+445642359409,TechVenture Ltd,Operations,UNITED KINGDOM,2024-04-12 00:00:00
+C103,Bethany,Ali,BETHANY.ALI@business.com,(452) 817-2044,Frost Inc,SALES,FRANCE,2023-03-03 00:00:00
+C104,Dennis,PHILlips,dennis.phillips@outlook.com,0044 182 799 9835,"Jones, Sutton and Williams",Operations,france,2024-10-31 00:00:00
+C105,HARRIET,Jenkins,harriet.jenkins@business.com,0044 729 884 1256,Reed-Roberts,SALES,FRANCE,2023-07-31 00:00:00
+C106,Colin,Wilson,colin.wilson@company.co.uk,0044 243 615 5739,"Cooke, Howell and Wilkinson",marketing,UNITED KINGDOM,2024-08-12 00:00:00
+C107,Natasha,Cole,natasha.cole@business.com,+446707053869,Taylor-Walker,FINANCE,UK,2024/07/23
+C108,JacQuElInE,Bates,jacqueline.bates@company.co.uk   ,0584 346 4692,Summit Enterprises,marketing,netherlands,2024-12-25 00:00:00
+C109,Vincent,Perry,vincent.perry@outlook.com ,+449238794555,Phoenix Digital,SALES,Ireland,2023-08-02 00:00:00
+C110,Shannon,Jones,SHANNON.JONES@gmail.com,0345 665 6269,Ahmed and Sons,MARKETING,France,2024-01-25 00:00:00
+C111,Alexandra,Cooper,alexandra.cooper@gmail.com,0044 676 984 4625,Crown Business,Operations,UK,2023-01-17 00:00:00
+C112,Olivia,Arnold,olivia.arnold@business.com,0663 770 6530,"Jones, Sutton and Williams",marketing,france,2024-05-15 00:00:00
+C113,Kerry,Walker,kerry.walker@COMPANY.CO.UK,+44 636 134 2217,Price PLC   ,legal,UK,2023-01-07 00:00:00
+C114,Arthur,Cook,arthur.cook@northbridge.co.uk   ,+44 644 664 7739,"Moran, Marshall and Dawson ",Sales,UNITED KINGDOM,2023-01-18 00:00:00
+C115,Kayleigh,Edwards,kayleigh.edwards@NORTHBRIDGE.CO.UK,+44 373 914 7502,Blue Wave Industries,finance,Germany,2024/01/18
+C116,George,Williams,george.williams@northbridge.co.uk,0044 587 157 1154,Sterling Partners,Operations,Netherlands,2023-03-26 00:00:00
+C117,Annette,Burns,ANNETTE.BURNS@GMAIL.COM,0377 147 2218,Davies-Brookes,LEGAL,France,2024-07-10 00:00:00
+C118,Jacob,Smith,jacob.smith@gmail.com ,+447936536435,Clark-Martin,legal,france,2023-05-24 00:00:00
+C119,Margaret,Bibi,margaret.bibi@company.co.uk,+447493798381,Richards-Hudson,finance,united kingdom,2023-08-22 00:00:00
+C120,Kelly,SMITH,kelly.smith@business.com,0044 374 257 7225,"Turner, Henry and Bell",Sales,United Kingdom,2024/02/03
+C121,Angela,Harding,  angela.harding@northbridge.co.uk,+44 624 517 2692,Blue Wave Industries,legal,Netherlands,2023-04-02 00:00:00
+C122,Pamela,dean,pamela.dean@company.co.uk,0273 242 5405,Reed-Roberts,MARKETING,france,2023-10-02 00:00:00
+C123,Henry,Bailey,henry.bailey@company.co.uk,+442384111110,"Lloyd, Ford and Douglas",operations,UNITED KINGDOM,2023-12-07 00:00:00
+C124,Lynda,Roberts,lynda.roberts@business.com,+445904213910,Reed-Roberts,LEGAL,IRELAND,2023-11-23 00:00:00
+C125,Dylan,Pearson,dylan.pearson@company.co.uk,(706) 658-3947,"Evans, Bell and Clark",Legal,IRELAND,2023-01-28 00:00:00
+C126,elIzABEtH,Jarvis,elizabeth.jarvis@business.com,+443473583525,"Turner, Henry and Bell",MARKETING,Germany,2024/01/22
+C127,Douglas,Johnston,douglas.johnston@outlook.com,+448646314621,"Jones, Sutton and Williams",MARKETING,Netherlands,2024-01-19 00:00:00
+C128,Keith,Dale,keith.dale@business.com,0951 847 3321,Sterling Partners,sales,UK,2023-11-16 00:00:00
+C129,George,Pearson,george.pearson@NORTHBRIDGE.CO.UK,+44 929 827 2885,Stevenson PLC,FINANCE,UK,2023-12-18 00:00:00
+C130,Margaret,Fuller,margaret.fuller@northbridge.co.uk,+442907558080,Northbridge Office Group,Operations,IRELAND,2023-01-30 00:00:00
+C131,Kathryn,Quinn,kathryn.quinn@business.com,0044 204 918 9796,Davies-Dunn,SALES,netherlands,2024/01/10
+C132,bradley,Thomas,  BRADLEY.THOMAS@outlook.com,(276) 933-5873,Apex Services,OPERATIONS,Netherlands,2024-08-27 00:00:00
+C133,BaRrY,mccartHY,barry.mccarthy@outlook.com,0668 270 9022,"Scott, Patel and Campbell",LEGAL,Ireland,2023-05-24 00:00:00
+C134,ELIZABETH,Waters,elizabeth.waters@northbridge.co.uk,(679) 860-9115,Francis-Robson,Marketing,france,2024-06-07 00:00:00
+C135,Louise,Williams,louise.williams@outlook.com,0204 853 5055,Phoenix Digital,Marketing,France,2023-02-03 00:00:00
+C136,benjamin,Matthews,benjamin.matthews@company.co.uk,0044 981 827 8015,Francis-Robson,legal,Germany,2024-09-22 00:00:00
+C137,Adam,Fitzgerald,adam.fitzgerald@gmail.com,+44 686 373 9428, Higgins Ltd,finance,GERMANY,2023-05-19 00:00:00
+C138,Kate,Stevens,kate.stevens@company.co.uk   ,+442456915402,Wright Group,OPERATIONS,FRANCE,2024-01-20 00:00:00
+C139,Jacob,Scott,jacob.scott@NORTHBRIDGE.CO.UK,+441029892526,Jones Group,FINANCE,NETHERLANDS,2024-10-12 00:00:00
+C140,Frank,FOX,  frank.fox@outlook.com,0679 972 8951,Wright Group,legal,IRELAND,2024/11/29
+C141,Philip,Jones,philip.jones@business.com,0044 356 184 7092, Higgins Ltd,SALES,Germany,2023.02.23
+C142,Katy,Bishop,KATY.BISHOP@gmail.com  ,+44 109 108 6629,Apex Services,Legal,france,2024-03-08 00:00:00
+C143,Abigail,Edwards,abigail.edwards@business.com,(643) 676-1138,Frost Inc,MARKETING,UNITED KINGDOM,2024.10.27
+C144,Henry,Johnson,henry.johnson@northbridge.co.uk,0703 847 7291,Davies-Dunn,marketing,united kingdom,2024-03-15 00:00:00
+C145,Rachael,sykes,rachael.sykes@outlook.com  ,0044 310 630 9348,Horizon Consulting,Sales,GERMANY,2024-02-06 00:00:00
+C146,Julian,Ali,julian.ali@business.com,0981 959 7895,TechVenture Ltd,Marketing,FRANCE,2024-07-13 00:00:00
+C147,Karen,watson,KAREN.WATSON@business.com,+446183939209,Crown Business,SALES,france,2024-03-09 00:00:00
+C148,CaLlUM,humphreys,callum.humphreys@gmail.com,+44 815 547 4909,"Jones, Sutton and Williams",sales,GERMANY,2023.09.08
+C149,Gerard,Foster,gerard.foster@gmail.com,+448891306488,Miller Ltd,FINANCE,United Kingdom,2023-10-06 00:00:00
+C150,Bruce,BRADY,bruce.brady@OUTLOOK.COM,+44 476 261 5179,Murphy-Tomlinson,Legal,Ireland,2024-08-10 00:00:00
+C151,Jayne,Davies,jayne.davies@GMAIL.COM,0429 354 7819,Taylor-Walker,OPERATIONS,Ireland,2023-10-05 00:00:00
+C152,Rita,Carter,RITA.CARTER@business.com,+44 435 188 8483,"Newton, Anderson and Davies",finance,Germany,2024/01/13
+C153,Patrick,Cox,patrick.cox@business.com,0654 454 1157,Jones Group,Sales,IRELAND,2023-01-02 00:00:00
+C154,Maurice,Fraser,maurice.fraser@northbridge.co.uk,+44 828 386 2524,"Brennan, Taylor and George ",sales,IRELAND,2023-08-26
+C155,Dean,Fraser,dean.fraser@business.com,0778 233 4879," Scott, Patel and Campbell",sales,France,2023.09.25
+C156,Elizabeth,Robertson,elizabeth.robertson@outlook.com,(421) 516-2978,Blue Wave Industries,operations,FRANCE,2024-01-02 00:00:00
+C157,Dorothy,Herbert,DOROTHY.HERBERT@COMPANY.CO.UK,0044 320 955 6370,"Moran, Marshall and Dawson  ",legal,UNITED KINGDOM,2023.04.04
+C158,Phillip,Perkins,phillip.perkins@northbridge.co.uk,0044 112 163 4641,Davey LLC,Marketing,United Kingdom,2023-07-22 00:00:00
+C159,JEssiCa,Kent,JESSICA.KENT@NORTHBRIDGE.CO.UK,0928 231 2506,Crown Business   ,marketing,FRANCE,2023-05-06 00:00:00
+C160,Luke,Williams,luke.williams@outlook.com,+441621895583,Francis-Robson,LEGAL,france,2023-05-21 00:00:00
+C161,Carolyn,hart,carolyn.hart@OUTLOOK.COM,0452 679 9231,Hussain and Sons,legal,France,2024-02-02 00:00:00
+C162,Hollie,Bell,hollie.bell@gmail.com,(772) 346-5366,Murphy-Tomlinson,Sales,Ireland,2023-02-27 00:00:00
+C163,judith,Ferguson,judith.ferguson@northbridge.co.uk,(705) 128-6761,Francis-Robson,FINANCE,Germany,2024.07.31
+C164,Ashleigh,clark,ASHLEIGH.CLARK@gmail.com,+44 120 639 8831,Summit Enterprises   ,Legal,Ireland,2023-12-06 00:00:00
+C165,Jacob,Smith,jacob.smith@business.com,(482) 821-7481,"Lloyd, Ford and Douglas",FINANCE,united kingdom,2023-04-14
+C166,Lynne,Carter,LYNNE.CARTER@northbridge.co.uk,+443287813872,"Newton, Anderson and Davies",Legal,Germany,2023-11-11 00:00:00
+C167,Derek,Williams,derek.williams@northbridge.co.uk,+447546792705,Blue Wave Industries,legal,ireland,2023-05-25 00:00:00
+C168,Kathleen,Ford,kathleen.ford@company.co.uk  ,0044 111 371 4435,Stevenson PLC,FINANCE,FRANCE,2024-12-10 00:00:00
+C169,JAYNE,Wright,jayne.wright@NORTHBRIDGE.CO.UK,0044 948 590 4695,Murphy-Tomlinson,Operations,United Kingdom,2024-04-07 00:00:00
+C170,Naomi,KAY,naomi.kay@business.com,0044 821 131 8066,Ahmed and Sons,legal,FRANCE,2024-09-13 00:00:00
+C171,Leah,Thompson,leah.thompson@gmail.com,0044 502 685 9043,TechVenture Ltd,sales,united kingdom,2023-02-25 00:00:00
+C172,Julie,Patel,julie.patel@gmail.com,+444159037512,Price PLC,OPERATIONS,UNITED KINGDOM,2024-05-15 00:00:00
+C173,GARY,Sheppard,gary.sheppard@company.co.uk,0576 369 4706,"Turner, Henry and Bell",finance,France,2024-07-31 00:00:00
+C174,Jonathan,JACKSON,jonathan.jackson@business.com,(648) 803-8779,"Leach, Clarke and Robinson",legal,France,2023/08/30
+C175,Lindsey,Singh,lindsey.singh@gmail.com,0044 316 927 4157,   White Ltd,marketing,Ireland,2023-02-13
+C176,Leah,DaVIES,leah.davies@outlook.com  ,(433) 977-5525,"Jones, Sutton and Williams",OPERATIONS,NETHERLANDS,2024-04-14 00:00:00
+C177,EriC,waTkins,eric.watkins@business.com,0584 138 3821, Smith Inc,legal,NETHERLANDS,2024-02-17 00:00:00
+C178,irENE,Holt,irene.holt@business.com   ,0044 846 526 2462,TechVenture Ltd,Finance,Germany,2024-03-28 00:00:00
+C179,Samuel,Ali, samuel.ali@company.co.uk,0469 821 4262,Miller Ltd,Operations,UK,2024-01-13 00:00:00
+C180,SHANE,gordon,shane.gordon@gmail.com,+44 267 957 5237,Smith Inc,finance,GERMANY,2023-10-19 00:00:00
